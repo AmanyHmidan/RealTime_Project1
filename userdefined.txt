@@ -1,0 +1,6 @@
+MAX_ENERGY = 100
+MIN_ENERGY = 80
+BALL_SPEED = 50
+timer1 = 30 
+timer5 = 150
+
