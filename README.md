@@ -1,1 +1,1 @@
-# RealTime_Project1
+This project is a multi-processing application that simulates the behaviour of 2 teams of players playing beach ball game. It gave me a clearer comprehension of process, such as the use of fork and exec, along with communication techniques between processes like pipes and signals. 
